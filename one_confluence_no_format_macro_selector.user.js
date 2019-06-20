@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         One Confluence No Format Macro Selector
-// @namespace    https://github.com/skaveesh/One-Confluence-No-Format-Macro-Selector
-// @version      1.1
+// @namespace    https://github.com/skaveesh/One-Confluence-No-Format-Macro-Selector/
+// @version      1.2
 // @description  One Confluence No Format Macro Selector for Pearson
 // @author       You
 // @run-at       document-idle
